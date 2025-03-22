@@ -1,4 +1,4 @@
-module github.com/distributed-lab/tron-sdk
+module github.com/WhoisX/tron-sdk
 
 go 1.20
 
